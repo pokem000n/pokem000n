@@ -3,7 +3,7 @@
 *Computer Science & Engineering student* at United International University (UIU), passionate about solving problems and building intelligent systems.
 
 ## 🚀 About Me
-- 🎯 Focused on *Competitive Programming* (C++, Python)
+- 🎯 Focused on *Competitive Programming* (C++, Python,Java)
 - 📘 Currently learning: Data Structures, Algorithms, and ML fundamentals
 - ⚡ Always exploring new tech & building my skills step by step
 
