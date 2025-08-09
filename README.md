@@ -8,7 +8,7 @@
 - ⚡ Always exploring new tech & building my skills step by step
 
 ## 🧠 Skills & Interests
-- *Languages*: C++, Python, Java (beginner)
+- *Languages*: C++, Python (beginner), Java
 - *CP Platforms*: Codeforces, AtCoder, LeetCode, HackerRank
 - *Interests*: Artificial Intelligence, Automation, Web Dev (basic), Tech Startups
 
