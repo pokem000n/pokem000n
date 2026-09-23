@@ -16,28 +16,14 @@
 ## About Me
 
 I am a Computer Science & Engineering undergraduate at **United International University** with a strong foundation in Algorithms, Data Structures, and Software Development. I am passionate about Competitive Programming, AI/ML, Robotics, and IoT, with hands-on experience in ESP32-based embedded systems, web development, and real-world engineering projects. I aim to build efficient, scalable, and intelligent solutions to solve real-world problems.
-
 ## Technologies & Tools
 
 <div align="center">
-  <table>
-    <tr align="center">
-      <td width="110"><br><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40" /><br><br><b>C++</b><br><br></td>
-      <td width="110"><br><img src="https://skillicons.dev/icons?i=python&theme=dark" width="40" /><br><br><b>Python</b><br><br></td>
-      <td width="110"><br><img src="https://skillicons.dev/icons?i=java&theme=dark" width="40" /><br><br><b>Java</b><br><br></td>
-      <td width="110"><br><img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" /><br><br><b>JavaScript</b><br><br></td>
-      <td width="110"><br><img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" /><br><br><b>React</b><br><br></td>
-      <td width="110"><br><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40" /><br><br><b>Node.js</b><br><br></td>
-    </tr>
-    <tr align="center">
-      <td width="110"><br><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="40" /><br><br><b>TensorFlow</b><br><br></td>
-      <td width="110"><br><img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="40" /><br><br><b>Ubuntu</b><br><br></td>
-      <td width="110"><br><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40" /><br><br><b>Linux</b><br><br></td>
-      <td width="110"><br><img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" /><br><br><b>Git</b><br><br></td>
-      <td width="110"><br><img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" /><br><br><b>HTML</b><br><br></td>
-      <td width="110"><br><img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" /><br><br><b>CSS</b><br><br></td>
-    </tr>
-  </table>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,tensorflow,ubuntu,linux,git,html,css&theme=dark&perline=6" />
+  </a>
+  <br><br>
 </div>
 
 ### Data Science & ML Libraries
