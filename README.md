@@ -8,36 +8,27 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alifalshifat11/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/AlifAlShifat.11)
-[![Email](https://img.shields.io/badge/shifat20040927@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shifat20040927@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shifat20040927@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pokem000n)
 
 </div>
 
 ## About Me
 
-I am a Computer Science & Engineering undergraduate at **United International University (UIU)** with a strong foundation in Algorithms and Data Structures. I enjoy tackling complex computational problems through competitive programming and am actively expanding my knowledge in Machine Learning and Data Science. My primary focus is on writing efficient code and building scalable, intelligent systems.
+I am a Computer Science & Engineering undergraduate at **United International University** with a strong foundation in Algorithms, Data Structures, and Software Development. I am passionate about Competitive Programming, AI/ML, Robotics, and IoT, with hands-on experience in ESP32-based embedded systems, web development, and real-world engineering projects. I aim to build efficient, scalable, and intelligent solutions to solve real-world problems.
 
 ## Technologies & Tools
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp" width="45" alt="C++" /><br><b>C++</b></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="45" alt="Python" /><br><b>Python</b></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" width="45" alt="Java" /><br><b>Java</b></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript" /><br><b>JavaScript</b></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="45" alt="React" /><br><b>React</b></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js" /><br><b>Node.js</b></td>
-    </tr>
-    <tr>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tensorflow" width="45" alt="TensorFlow" /><br><b>TensorFlow</b></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ubuntu" width="45" alt="Ubuntu" /><br><b>Ubuntu</b></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=linux" width="45" alt="Linux" /><br><b>Linux</b></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="45" alt="Git" /><br><b>Git</b></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML" /><br><b>HTML</b></td>
-      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS" /><br><b>CSS</b></td>
-    </tr>
-  </table>
+  <br>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs&theme=dark" />
+  <br>
+  <b>C++ &nbsp;•&nbsp; Python &nbsp;•&nbsp; Java &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; React &nbsp;•&nbsp; Node.js</b>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,ubuntu,linux,git,html,css&theme=dark" />
+  <br>
+  <b>TensorFlow &nbsp;•&nbsp; Ubuntu &nbsp;•&nbsp; Linux &nbsp;•&nbsp; Git &nbsp;•&nbsp; HTML &nbsp;•&nbsp; CSS</b>
+  <br>
 </div>
 
 ### Data Science & ML Libraries
@@ -56,7 +47,7 @@ I am a Computer Science & Engineering undergraduate at **United International Un
     <tr>
       <td align="center" width="220">
         <br>
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" width="50"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
         <br><br>
         <b>LeetCode</b><br>
         <a href="https://leetcode.com/u/alifalshifat11/">@alifalshifat11</a>
