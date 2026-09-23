@@ -13,11 +13,11 @@
 
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
 I am a Computer Science & Engineering undergraduate at **United International University (UIU)** with a strong foundation in Algorithms and Data Structures. I enjoy tackling complex computational problems through competitive programming and am actively expanding my knowledge in Machine Learning and Data Science. My primary focus is on writing efficient code and building scalable, intelligent systems.
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <div align="center">
   <table>
@@ -40,7 +40,7 @@ I am a Computer Science & Engineering undergraduate at **United International Un
   </table>
 </div>
 
-### 📊 Data Science & ML Libraries
+### Data Science & ML Libraries
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -49,7 +49,7 @@ I am a Computer Science & Engineering undergraduate at **United International Un
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 </p>
 
-## 🏆 Competitive Programming
+## Competitive Programming
 
 <div align="center">
   <table>
@@ -82,7 +82,7 @@ I am a Computer Science & Engineering undergraduate at **United International Un
   </table>
 </div>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 * **[Rescue Rover Dashboard](https://github.com/pokem000n/rescue-rover-dashboard)** — A real-time monitoring and control interface for rescue rover operations, built with JavaScript and React.
 * **[Blood Donation System](https://github.com/pokem000n/blood-donation-system)** — A responsive community platform designed to bridge the gap between blood donors and patients in need.
@@ -90,7 +90,7 @@ I am a Computer Science & Engineering undergraduate at **United International Un
 * **[BookSwap](https://github.com/pokem000n/bookswap)** — A peer-to-peer web platform enabling students to exchange books and resources.
 * **[Portfolio Website](https://github.com/pokem000n/alifalshifat11-portfolio)** — A personal portfolio website developed using React.js to showcase projects and achievements.
 
-## 📈 Activity & Analytics
+## Activity & Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pokem000n&theme=transparent&hide_border=true" alt="GitHub Streak" />
