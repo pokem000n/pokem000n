@@ -15,19 +15,25 @@
 
 ## About Me
 
-I am a Computer Science & Engineering undergraduate at **United International University** with a strong foundation in Algorithms, Data Structures, and Software Development. I am passionate about Competitive Programming, AI/ML, Robotics, and IoT, with hands-on experience in ESP32-based embedded systems, web development, and real-world engineering projects. I aim to build efficient, scalable, and intelligent solutions to solve real-world problems.
+I am a Computer Science & Engineering undergraduate at **United International University (UIU)** with a strong foundation in Algorithms and Data Structures. I enjoy tackling complex computational problems through competitive programming and am actively expanding my knowledge in Machine Learning and Data Science. My primary focus is on writing efficient code and building scalable, intelligent systems.
 
 ## Technologies & Tools
 
 <div align="center">
   <br>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs&theme=dark" />
-  <br>
-  <b>C++ &nbsp;•&nbsp; Python &nbsp;•&nbsp; Java &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; React &nbsp;•&nbsp; Node.js</b>
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="35" alt="C++" /> <b>C++</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="35" alt="Python" /> <b>Python</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="35" alt="Java" /> <b>Java</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="35" alt="JavaScript" /> <b>JavaScript</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="35" alt="React" /> <b>React</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="35" alt="Node.js" /> <b>Node.js</b>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,ubuntu,linux,git,html,css&theme=dark" />
-  <br>
-  <b>TensorFlow &nbsp;•&nbsp; Ubuntu &nbsp;•&nbsp; Linux &nbsp;•&nbsp; Git &nbsp;•&nbsp; HTML &nbsp;•&nbsp; CSS</b>
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="35" alt="TensorFlow" /> <b>TensorFlow</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" height="35" alt="Ubuntu" /> <b>Ubuntu</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="35" alt="Linux" /> <b>Linux</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="35" alt="Git" /> <b>Git</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="35" alt="HTML" /> <b>HTML</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="35" alt="CSS" /> <b>CSS</b>
   <br>
 </div>
 
