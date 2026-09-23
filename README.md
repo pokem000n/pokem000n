@@ -15,26 +15,29 @@
 
 ## About Me
 
-I am a Computer Science & Engineering undergraduate at **United International University (UIU)** with a strong foundation in Algorithms and Data Structures. I enjoy tackling complex computational problems through competitive programming and am actively expanding my knowledge in Machine Learning and Data Science. My primary focus is on writing efficient code and building scalable, intelligent systems.
+I am a Computer Science & Engineering undergraduate at **United International University** with a strong foundation in Algorithms, Data Structures, and Software Development. I am passionate about Competitive Programming, AI/ML, Robotics, and IoT, with hands-on experience in ESP32-based embedded systems, web development, and real-world engineering projects. I aim to build efficient, scalable, and intelligent solutions to solve real-world problems.
 
 ## Technologies & Tools
 
 <div align="center">
-  <br>
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="35" alt="C++" /> <b>C++</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="35" alt="Python" /> <b>Python</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="35" alt="Java" /> <b>Java</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="35" alt="JavaScript" /> <b>JavaScript</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="35" alt="React" /> <b>React</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="35" alt="Node.js" /> <b>Node.js</b>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="35" alt="TensorFlow" /> <b>TensorFlow</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" height="35" alt="Ubuntu" /> <b>Ubuntu</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="35" alt="Linux" /> <b>Linux</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="35" alt="Git" /> <b>Git</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="35" alt="HTML" /> <b>HTML</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="35" alt="CSS" /> <b>CSS</b>
-  <br>
+  <table>
+    <tr align="center">
+      <td width="110"><br><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40" /><br><br><b>C++</b><br><br></td>
+      <td width="110"><br><img src="https://skillicons.dev/icons?i=python&theme=dark" width="40" /><br><br><b>Python</b><br><br></td>
+      <td width="110"><br><img src="https://skillicons.dev/icons?i=java&theme=dark" width="40" /><br><br><b>Java</b><br><br></td>
+      <td width="110"><br><img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" /><br><br><b>JavaScript</b><br><br></td>
+      <td width="110"><br><img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" /><br><br><b>React</b><br><br></td>
+      <td width="110"><br><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40" /><br><br><b>Node.js</b><br><br></td>
+    </tr>
+    <tr align="center">
+      <td width="110"><br><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="40" /><br><br><b>TensorFlow</b><br><br></td>
+      <td width="110"><br><img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="40" /><br><br><b>Ubuntu</b><br><br></td>
+      <td width="110"><br><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40" /><br><br><b>Linux</b><br><br></td>
+      <td width="110"><br><img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" /><br><br><b>Git</b><br><br></td>
+      <td width="110"><br><img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" /><br><br><b>HTML</b><br><br></td>
+      <td width="110"><br><img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" /><br><br><b>CSS</b><br><br></td>
+    </tr>
+  </table>
 </div>
 
 ### Data Science & ML Libraries
